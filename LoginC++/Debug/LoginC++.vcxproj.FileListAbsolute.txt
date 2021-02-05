@@ -1,0 +1,2 @@
+D:\C-project\C++\Login\LoginC++\Debug\LoginC++.exe
+D:\C-project\C++\Login\LoginC++\Debug\LoginC++.pdb
